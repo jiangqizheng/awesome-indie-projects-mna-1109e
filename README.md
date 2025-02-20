@@ -21,65 +21,45 @@ This repository showcases a variety of indie projects across different categorie
 
 ## 🛠 Developer Tools
 
-| Logo                                    | Name                                       | Description          | Founder(s) | Tech Stack     | Platform | Released Date | Total Users | Revenue (Optional) |
-| --------------------------------------- | ------------------------------------------ | -------------------- | ---------- | -------------- | -------- | ------------- | ----------- | ------------------ |
-| ![Logo](https://via.placeholder.com/50) | [Project Name](https://github.com/example) | A short description. | John Doe   | React, Node.js | Web      | 2023-05-10    | 5,000+      | $10,000/mo         |
-
 [⬆️ Go to Top](#-categories)
 
 ## 🤖 AI Tools
-
-| Logo                                    | Name                                       | Description          | Founder(s) | Tech Stack     | Platform | Released Date | Total Users | Revenue (Optional) |
-| --------------------------------------- | ------------------------------------------ | -------------------- | ---------- | -------------- | -------- | ------------- | ----------- | ------------------ |
-| ![Logo](https://via.placeholder.com/50) | [Project Name](https://github.com/example) | A short description. | John Doe   | React, Node.js | Web      | 2023-05-10    | 5,000+      | $10,000/mo         |
 
 [⬆️ Go to Top](#-categories)
 
 ## 🖥 Productivity
 
-| Logo                                    | Name                            | Description                    | Founder(s) | Tech Stack  | Platform    | Released Date | Total Users | Revenue (Optional) |
-| --------------------------------------- | ------------------------------- | ------------------------------ | ---------- | ----------- | ----------- | ------------- | ----------- | ------------------ |
-| ![Logo](https://via.placeholder.com/50) | [TaskFlow](https://example.com) | A simple task management tool. | Alex Dev   | Vue, Django | Web, Mobile | 2021-09-12    | 50,000+     | $8,000/mo          |
+| Logo                                                                           | Name                                 | Description          | Platform | Tech Stack           | Revenue (Optional) | Total Users | Released Date | Last Updated |
+| ------------------------------------------------------------------------------ | ------------------------------------ | -------------------- | -------- | -------------------- | ------------------ | ----------- | ------------- | ------------ |
+| <img src="https://beenalone.com/img/icons/logo192.png" width="40" height="40"> | [Been Alone](https://beenalone.com/) | A Dating application | Mobile   | React Native, Nestjs | N/A                | 700,000+    | 24-02-2021    | 20-02-2025   |
 
 [⬆️ Go to Top](#-categories)
 
 ## 🎨 Design & Creativity
 
-| Logo                                    | Name                                | Description                  | Founder(s)  | Tech Stack      | Platform | Released Date | Total Users | Revenue (Optional) |
-| --------------------------------------- | ----------------------------------- | ---------------------------- | ----------- | --------------- | -------- | ------------- | ----------- | ------------------ |
-| ![Logo](https://via.placeholder.com/50) | [AI Art Maker](https://example.com) | Generate AI-powered artwork. | CreativeDev | Python, Next.js | Web      | 2023-01-15    | 20,000+     | $12,000/mo         |
-
 [⬆️ Go to Top](#-categories)
 
 ## 🎮 Games
 
-| Logo                                    | Name                                   | Description                   | Founder(s) | Tech Stack | Platform | Released Date | Total Users | Revenue (Optional) |
-| --------------------------------------- | -------------------------------------- | ----------------------------- | ---------- | ---------- | -------- | ------------- | ----------- | ------------------ |
-| ![Logo](https://via.placeholder.com/50) | [Pixel Adventure](https://example.com) | A pixel-art indie platformer. | GameDev    | Unity, C#  | Mobile   | 2021-03-05    | 100,000+    | $20,000/mo         |
+| Logo                                                                               | Name                                        | Description                   | Platform | Tech Stack             | Revenue (Optional) | Total Users | Released Date | Last Updated |
+| ---------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------- | -------- | ---------------------- | ------------------ | ----------- | ------------- | ------------ |
+| <img src="https://language-king.com/img/icons/logo192.png" width="40" height="40"> | [Language King](https://language-king.com/) | Prove your language knowledge | Mobile   | React Native, Firebase | N/A                | 11,000+     | 17-02-2022    | 20-02-2025   |
 
 [⬆️ Go to Top](#-categories)
 
 ## 💰 Finance & Crypto
 
-| Logo                                    | Name                                  | Description                       | Founder(s) | Tech Stack    | Platform | Released Date | Total Users | Revenue (Optional) |
-| --------------------------------------- | ------------------------------------- | --------------------------------- | ---------- | ------------- | -------- | ------------- | ----------- | ------------------ |
-| ![Logo](https://via.placeholder.com/50) | [Crypto Tracker](https://example.com) | A real-time crypto price tracker. | CryptoGuru | Solidity, Vue | Web      | 2022-06-30    | 30,000+     | $5,000/mo          |
+| Logo                                                                            | Name                                  | Description                    | Platform | Tech Stack           | Revenue (Optional) | Total Users | Released Date | Last Updated |
+| ------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------ | -------- | -------------------- | ------------------ | ----------- | ------------- | ------------ |
+| <img src="https://moneymiser.app/img/icons/logo192.png" width="40" height="40"> | [Money Miser](https://moneymiser.app) | Money Tracker, Expense Tracker | Mobile   | React Native, Nestjs | N/A                | 1,000+      | 30-07-2023    | 20-02-2025   |
 
 [⬆️ Go to Top](#-categories)
 
 ## 🛒 E-commerce
 
-| Logo                                    | Name                            | Description                          | Founder(s) | Tech Stack     | Platform | Released Date | Total Users | Revenue (Optional) |
-| --------------------------------------- | ------------------------------- | ------------------------------------ | ---------- | -------------- | -------- | ------------- | ----------- | ------------------ |
-| ![Logo](https://via.placeholder.com/50) | [ShopEasy](https://example.com) | A lightweight online store platform. | EcomDev    | Shopify, React | Web      | 2023-04-12    | 15,000+     | $15,000/mo         |
-
 [⬆️ Go to Top](#-categories)
 
 ## 🧑‍🤝‍🧑 Community & Social
-
-| Logo                                    | Name                                | Description                             | Founder(s) | Tech Stack    | Platform | Released Date | Total Users | Revenue (Optional) |
-| --------------------------------------- | ----------------------------------- | --------------------------------------- | ---------- | ------------- | -------- | ------------- | ----------- | ------------------ |
-| ![Logo](https://via.placeholder.com/50) | [IndieConnect](https://example.com) | A networking platform for indie makers. | SocialDev  | Ruby on Rails | Web      | 2021-07-25    | 5,000+      | $3,000/mo          |
 
 ---
 
