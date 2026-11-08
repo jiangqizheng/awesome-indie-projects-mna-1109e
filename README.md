@@ -31,6 +31,7 @@ This repository showcases a variety of indie projects across different categorie
 
 | Logo                                                                           | Name                                 | Description          | Platform | Tech Stack           | Revenue (Optional) | Total Users | Released Date | Last Updated |
 | ------------------------------------------------------------------------------ | ------------------------------------ | -------------------- | -------- | -------------------- | ------------------ | ----------- | ------------- | ------------ |
+| — | [Calculation Hub](https://calculation-hub.com/) | 337 free calculators across 30 categories, with formulas and assumptions | Web | N/A | N/A | N/A | N/A | N/A |
 | <img src="https://beenalone.com/img/icons/logo192.png" width="40" height="40"> | [Been Alone](https://beenalone.com/) | A Dating application | Mobile   | React Native, Nestjs | N/A                | 700,000+    | 24-02-2021    | 20-02-2025   |
 
 [⬆️ Go to Top](#-categories)
