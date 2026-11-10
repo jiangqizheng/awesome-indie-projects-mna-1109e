@@ -42,6 +42,9 @@ This repository showcases a variety of indie projects across different categorie
 [⬆️ Go to Top](#-categories)
 
 ## 🎨 Design & Creativity
+| Logo                                                                            | Name                                  | Description                    | Platform | Tech Stack           | Revenue (Optional) | Total Users | Released Date | Last Updated |
+| ------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------ | -------- | -------------------- | ------------------ | ----------- | ------------- | ------------ |
+| <img src="https://snappeak.app/logo.svg" width="40" height="40"> | [Snappeak](http://snappeak.app/) | The software for selfbooth, photobooth studio | Web, Desktop   | Flutter, Firebase | N/A                | NA      | 8-11-2026    | NA   |
 
 [⬆️ Go to Top](#-categories)
 
@@ -54,10 +57,6 @@ This repository showcases a variety of indie projects across different categorie
 [⬆️ Go to Top](#-categories)
 
 ## 💰 Finance & Crypto
-
-| Logo                                                                            | Name                                  | Description                    | Platform | Tech Stack           | Revenue (Optional) | Total Users | Released Date | Last Updated |
-| ------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------ | -------- | -------------------- | ------------------ | ----------- | ------------- | ------------ |
-| <img src="https://moneymiser.app/img/icons/logo192.png" width="40" height="40"> | [Money Miser](https://moneymiser.app) | Money Tracker, Expense Tracker | Mobile   | React Native, Nestjs | N/A                | 1,000+      | 30-07-2023    | 20-02-2025   |
 
 [⬆️ Go to Top](#-categories)
 
